@@ -1,0 +1,99 @@
+#menu {
+  background-color: black;
+  height: 8vh;
+  margin-bottom: 3vh;
+}
+.col12 {
+  align-items: center;
+}
+#h1menu {
+  color: aliceblue;
+  margin-top: 1vh;
+}
+#img {
+  margin: 0;
+  height: 15vh;
+  width: 11vw;
+}
+.col2what {
+  align-items: center;
+}
+h1 {
+  font-family: 'DM Sans', sans-serif;
+}
+#spanlogo {
+  color: rgb(145, 255, 255);
+}
+#h6 {
+  margin-top: 4vh;
+}
+.label {
+  font-size: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+label {
+  font-size: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#buttonxmodal1 {
+  width: 2vw;
+  height: 4vh;
+  color: black;
+  background: white;
+  border: 1px solid black;
+}
+#buttonxmodal1:hover {
+  background: red;
+}
+span {
+  color: black;
+}
+#forend {
+  margin-top: 2vh;
+}
+#buttonone {
+  color: black;
+  background-color: white;
+  border: 2px solid black;
+  width: 23vw;
+  height: 5vh;
+  margin-top: 2vh;
+}
+#buttonone:hover {
+  color: white;
+  background: black;
+}
+#labelhabil {
+  margin-top: 2vh;
+}
+.esptop {
+  margin-top: 2vh;
+}
+.rowsep {
+  border-bottom: 1px solid black;
+}
+.espbottom {
+  margin-bottom: 2vh;
+}
+.backform {
+  margin-bottom: 2vh;
+  background: black;
+  color: white;
+}
+#close {
+  width: 6vw;
+  height: 4vh;
+  border-radius: 5px;
+  background: black;
+}
+#saves {
+  width: 6vw;
+  height: 4vh;
+  border-radius: 5px;
+  border: none;
+  background: black;
+}
+#footer {
+  background: black;
+  height: 12vh;
+}
